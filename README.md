@@ -9,3 +9,7 @@ Due to the unavailability of the exact images as given in the image, I have used
 # Responsiveness
 
 The Page is responsive across all devices
+
+# Deploy link
+
+[Gig Genius](https://aeonaxy-giggenius.netlify.app/)
